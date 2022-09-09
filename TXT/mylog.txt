@@ -14,3 +14,5 @@ ZCZC W01 10 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 15 L61 Install/Reinstall/Restore/Backup Virtual Box
 ZCZC W01 20 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W01 60 L01 SCELE/Discord related
+ZCZC W01 150 L11 Assignment #01
+ZCZC W01 5 L05 Quiz related including studying
