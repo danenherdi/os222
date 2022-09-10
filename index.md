@@ -3,7 +3,7 @@
 
 [HOME]({{ site.baseurl }}/) //
 [LINKS]({{ site.baseurl }}/LINKS/) //
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) //
-[GITHUB]({{ site.githublink }}) 
+[LOG](TXT/mylog.txt) //
+[GITHUB](https://github.com/danenherdi/os222/) 
 
 This is my OS222
