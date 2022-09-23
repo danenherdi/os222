@@ -39,5 +39,9 @@ ZCZC W02 10 L03 GitHub and git related, including commit, push, pull
 ZCZC W03 110 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 110 L02 ZOOM meetings related
 ZCZC W03 45 L13 Assignment #03
+ZCZC W03 15 L05 Quiz 02 WEEK 03
 ZCZC W03 10 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 ZCZC W03 110 L00 General, etc.
+ZCZC W03 5 L05 Quiz 01 WEEK 03
+ZCZC W03 70 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 60 L04 GitHub Pages related
