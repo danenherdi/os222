@@ -52,3 +52,5 @@ ZCZC W04 105 L02 ZOOM meetings related
 ZCZC W04 110 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W04 30 L24 Scripting in general.
 ZCZC W04 30 L14 Assignment #04
+ZCZC W04 100 L00 General, etc.
+ZCZC W04 5 L05 Quiz 02 WEEK 04
