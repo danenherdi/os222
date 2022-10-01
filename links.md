@@ -48,3 +48,16 @@ This playlist will explain everything about file implementation in the operating
 
 4. [Fragmentation in Operating System](https://www.javatpoint.com/fragmentation-in-operating-system)<br>
 This link explains about one of the problems in the operating system that involves memory, namely fragmentation.
+
+## W04
+1. [Pointers in C](https://youtu.be/mw1qsMieK5c)<br> 
+This video will explain how pointers work in the C programming language. This is useful for accessing the address of a variable.
+
+2. [Paging in Operating System](https://youtu.be/pJ6qrCB8pDw)<br>
+This video will explain one way of memory management in the operating system, namely paging. Of course this is useful for storing and retrieving data from secondary storage to main memory.
+
+3. [Paging](https://kuleuven-diepenbeek.github.io/osc-course/ch9-memory/paging/)(Article)<br>
+This link will provide an article containing details from the previous paging.
+
+4. [Address Mapping](https://schoettkr.github.io/knowledge-database/uni/os/06_lecture/)<br>
+This link will explain some of the variations of memory mapping that occur in operating systems. Of course this is related to the process of mapping logical addresses to physical address space.
