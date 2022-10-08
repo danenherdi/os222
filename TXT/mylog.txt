@@ -63,3 +63,11 @@ ZCZC W04 10 L04 GitHub Pages related
 ZCZC W04 30 L43 TXT/myrank.tex related, including peer review.
 ZCZC W04 10 L41 TXT/mylog.txt related.
 ZCZC W04 5 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 70 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W05 100 L02 ZOOM meetings related
+ZCZC W05 40 L15 Assignment #05
+ZCZC W05 20 L05 Pop Quiz
+ZCZC W05 110 L00 General, etc
+ZCZC W05 5 L05 Quiz 02 WEEK 05
+ZCZC W05 5 L05 Quiz 01 WEEK 05
+ZCZC W05 60 L15 Assignment #05
