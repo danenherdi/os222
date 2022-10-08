@@ -61,3 +61,13 @@ This link will provide an article containing details from the previous paging.
 
 4. [Address Mapping](https://schoettkr.github.io/knowledge-database/uni/os/06_lecture/)<br>
 This link will explain some of the variations of memory mapping that occur in operating systems. Of course this is related to the process of mapping logical addresses to physical address space.
+
+## W05
+1. [Virtual Memory](https://youtu.be/2quKyPnUShQ)(Video)<br> 
+This video will explain one of the secondary memory management techniques that can be part of the main memory. It is useful to know the processes, techniques, types, and workings of an operating system's storage.
+
+2. [Virtual Memory](https://www.techtarget.com/searchstorage/definition/virtual-memory)(Article)<br>
+This link provides an advanced explanation of virtual memory in addition to the explanation in the video.
+
+3. [Process Table](https://exposnitc.github.io/os_design-files/process_table.html)(Article)<br>
+This link will provide a system process that contains entries to a table where each entry contains some important information about a process. Of course, this is also related to the page table process which contains information about the physical location of a process from the pages.
