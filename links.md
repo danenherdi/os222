@@ -71,3 +71,16 @@ This link provides an advanced explanation of virtual memory in addition to the 
 
 3. [Process Table](https://exposnitc.github.io/os_design-files/process_table.html)(Article)<br>
 This link will provide a system process that contains entries to a table where each entry contains some important information about a process. Of course, this is also related to the page table process which contains information about the physical location of a process from the pages.
+
+## W06
+1. [Process](https://www.studytonight.com/operating-system/operating-system-processes#:~:text=The%20different%20Process%20States&text=READY%20%2D%20The%20process%20is%20waiting,The%20process%20has%20finished%20execution.)(Article)<br>
+This link will provide an article that explains the various processes that occur when a program is executed. This is important because it is the fundamental basis of computing.
+
+2. [Process State](https://youtu.be/jZ_6PXoaoxo)<br>
+This video will explain the state of a process in an operating system program. This is because in a process, there can be more than one state that works simultaneously.
+
+3. [Fork System Calls](https://youtu.be/IFEFVXvjiHY)<br>
+This video will explain a system call to create a new process. The workings of creating a process certainly need to be understood to get through the basics of the program.
+
+4. [Fork Visualization](https://youtu.be/QD9YKSg3wCc)<br>
+Continuing from the previous video, this video will visualize how forks work to create a process. Of course, this relates to the relationship between the parent and child processes.
