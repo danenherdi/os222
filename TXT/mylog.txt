@@ -94,3 +94,4 @@ ZCZC W06 5 L03 GitHub and git related, including commit, push, pull
 ZCZC W07 110 L02 ZOOM meetings related
 ZCZC W07 100 L17 Assignment #07
 ZCZC W07 30 L05 Pop Quiz WEEK 07
+ZCZC W07 110 L00 General, etc
