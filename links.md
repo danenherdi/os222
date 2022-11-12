@@ -84,3 +84,19 @@ This video will explain a system call to create a new process. The workings of c
 
 4. [Fork Visualization](https://youtu.be/QD9YKSg3wCc)<br>
 Continuing from the previous video, this video will visualize how forks work to create a process. Of course, this relates to the relationship between the parent and child processes.
+
+## W07
+1. [Synchronization in Operating System](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/)(Article)<br>
+This article contains the basics of the synchronization process of a working operating system. This synchronization will then manage and help all applications run smoothly even when the operating system has to do many tasks simultaneously.
+
+2. [Synchronization](https://youtube.com/playlist?list=PLBlnK6fEyqRjDf_dmCEXgl6XjVKDDj0M2)(Video Playlist)<br>
+This link contains videos that further explain the synchronization that occurs in an operating system. The process includes things that support a synchronization can run.
+
+3. [Semaphore Example in C](https://youtu.be/ukM_zzrIeXs) 
+This video will explain a variable of type number used to solve the critical section problem that uses two (atomic) operations namely wait and signal that will relate to operating system synchronization.
+
+3. [Deadlock in Operating System](https://www.scaler.com/topics/operating-system/deadlock-in-os/)(Article)<br>
+This article will explain the deadlock process in the operating system. This process aims to hold some resources that are used for other processes because these resources are also used by other processes.
+
+4. [Deadlock](https://youtu.be/onkWXaXAgbY)(Video)<br>
+This video will further explain the concept of deadlock. Of course, to help understand the process, this video has examples of using the concept of deadlock in the real world so that it can visualize the concept in the field of operating systems.
