@@ -100,3 +100,16 @@ This article will explain the deadlock process in the operating system. This pro
 
 4. [Deadlock](https://youtu.be/onkWXaXAgbY)(Video)<br>
 This video will further explain the concept of deadlock. Of course, to help understand the process, this video has examples of using the concept of deadlock in the real world so that it can visualize the concept in the field of operating systems.
+
+## W08
+1. [Process Scheduling](https://youtu.be/2h3eWaPx8SA)<br>
+This video will explain the fundamental basis of scheduling a process that occurs in the operating system. So this video will be the basis of the next video article and playlisy video that explains about CPU scheduling.
+
+2. [CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)(Article)<br>
+This article will explain the basics of scheduling that occurs in a CPU of an operating system. Of course, scheduling in the CPU is useful for making a more efficient and faster system for an operating system.
+
+3. [CPU Schedulling](https://youtube.com/playlist?list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk)(Video Playlist)<br>
+The videos in this playlist will further explain the processes and aspects involved for a CPU to work with proper scheduling. There are also some fundamental bases on which the scheduling can work efficiently.
+
+4. [Linux From Scratch First Impressions](https://youtu.be/1eOdaXS-wVE)<br>
+This week is the first week we are working on an assignment that is creating linux from scratch. Of course, there are some things that we initially don't know about this performance. Therefore, this video provides an explanation of the first impression of working on linux from scratch.
