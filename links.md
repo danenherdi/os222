@@ -113,3 +113,5 @@ The videos in this playlist will further explain the processes and aspects invol
 
 4. [Linux From Scratch First Impressions](https://youtu.be/1eOdaXS-wVE)<br>
 This week is the first week we are working on an assignment that is creating linux from scratch. Of course, there are some things that we initially don't know about this performance. Therefore, this video provides an explanation of the first impression of working on linux from scratch.
+
+## W09
