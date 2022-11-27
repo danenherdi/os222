@@ -115,3 +115,11 @@ The videos in this playlist will further explain the processes and aspects invol
 This week is the first week we are working on an assignment that is creating linux from scratch. Of course, there are some things that we initially don't know about this performance. Therefore, this video provides an explanation of the first impression of working on linux from scratch.
 
 ## W09
+1. [Mass-Storage Structure](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/10_MassStorage.html)<br>
+   This link shows an article about the summary of Silberschatz's book on mass storage structures. This is because a storage in the operating system certainly has a body structure that makes the device work and the storage has several types in it.
+2. [What is RAID?](https://youtu.be/Aa0RTgxJJy8)<br>
+   RAID or in other words redundant array of independent disks is a way to store the same data in different locations and multiple hard disks to maintain the data in case of failure. Therefore, this link will provide a video on how the RAID system works to achieve the purpose of the definition.
+3. [What is UEFI?](https://youtu.be/l4Mw3ryJAN8)<br>
+   This link will provide a video on the definition of UEFI. UEFI itself stands for Unified Extensible Firmware Interface, this video will briefly explain the definition of the term in an operating system.  
+4. [UEFI Boot](https://youtu.be/-V3VhP-MUwE)<br>
+   After understanding the initial definition of UEFI, this video will explain how a UEFI boot works. Of course, this video shows step by step in general how the boot occurs in Linux.
